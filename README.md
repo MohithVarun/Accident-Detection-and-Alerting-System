@@ -10,10 +10,11 @@ The **Accident Detection and Alerting System** is a machine learning-based proje
 - Provides **real-time visualization** of predictions for better interpretability.
 - Optimized dataset handling using TensorFlow's `image_dataset_from_directory()` for efficient training and validation.
 
-## Dataset
+## Dataset  
 The dataset used for training and testing is available at the following link:  
-[Download Dataset](https://drive.google.com/file/d/1fG8YNwqYJ3Ad2l4Mom0eiNf5ZkRoP5jG/view?usp=sharing)
-**Note:** This is my own dataset, so if you are using this code, make sure to change the file paths accordingly in `ML_Project.py` to match your local directory structure.
+[Download Dataset](https://drive.google.com/file/d/1fG8YNwqYJ3Ad2l4Mom0eiNf5ZkRoP5jG/view?usp=sharing)  
+
+**Note:** This is my own dataset, so if you are using this code, make sure to change the file paths accordingly in `ML_Project.py` to match your local directory structure.  
 
 ## Installation
 1. Clone the repository:
