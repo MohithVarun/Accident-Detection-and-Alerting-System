@@ -61,6 +61,11 @@ A comparative analysis of different models is presented through visualizations, 
 - Deploy the model as a web service for live monitoring.
 
 ## License
-This project is open-source and available under the **MIT License**.
+This project is licensed under the MIT License. You are free to modify and use it as needed.
 
-Let me know if you need any modifications! 🚀
+## Contributing
+Contributions are welcome. If you have suggestions for improvements, feel free to submit a pull request.
+
+## Contact
+For inquiries or collaboration opportunities, reach out via email at **mohithvarunr@gmail.com** or visit [GitHub](https://github.com/MohithVarun)
+.
